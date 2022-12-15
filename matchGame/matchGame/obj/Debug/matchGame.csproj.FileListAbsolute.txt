@@ -1,0 +1,10 @@
+C:\Users\buket\source\repos\matchGame\matchGame\bin\Debug\matchGame.exe.config
+C:\Users\buket\source\repos\matchGame\matchGame\bin\Debug\matchGame.exe
+C:\Users\buket\source\repos\matchGame\matchGame\bin\Debug\matchGame.pdb
+C:\Users\buket\source\repos\matchGame\matchGame\obj\Debug\matchGame.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\matchGame\matchGame\obj\Debug\matchGame.Form1.resources
+C:\Users\buket\source\repos\matchGame\matchGame\obj\Debug\matchGame.Properties.Resources.resources
+C:\Users\buket\source\repos\matchGame\matchGame\obj\Debug\matchGame.csproj.GenerateResource.cache
+C:\Users\buket\source\repos\matchGame\matchGame\obj\Debug\matchGame.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\matchGame\matchGame\obj\Debug\matchGame.exe
+C:\Users\buket\source\repos\matchGame\matchGame\obj\Debug\matchGame.pdb
